@@ -23,6 +23,6 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 
 ## 目录
 
-- 0001 https://github.com/mawenbin666/mysql-howto/blob/main/01-%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AEmaxscale-6.0.md
+- 0001 [安装配置maxscale-6.0](https://github.com/xiongcccc/postgres-howto/blob/master/EXPLAIN%20ANALYZE%20or%20EXPLAIN%20(ANALYZE%2C%20BUFFERS).md)
   
 
